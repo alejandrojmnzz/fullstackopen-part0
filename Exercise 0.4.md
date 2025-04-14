@@ -1,3 +1,4 @@
+#Adding New Notes Diagram
 ```mermaid
 sequenceDiagram
     participant browser
